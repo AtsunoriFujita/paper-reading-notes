@@ -16,6 +16,8 @@ gh label create "distillation"      --color "f0e68c" --description "蒸留" --re
 gh label create "sdg"               --color "c2e0c6" --description "合成データ生成" --repo $REPO
 gh label create "domain-adoptation" --color "f9d0c4" --description "ドメイン適応" --repo $REPO
 
+gh label create "agent"             --color "8b5cf6" --description "AIエージェント" --repo $REPO
+
 # Application (reds / greens)
 gh label create "evaluation"        --color "d93f0b" --description "評価・ベンチマーク" --repo $REPO
 gh label create "embedding"         --color "0e8a16" --description "テキスト埋め込み" --repo $REPO
@@ -23,6 +25,7 @@ gh label create "rag"               --color "c5def5" --description "RAG" --repo 
 
 # Analysis (purple)
 gh label create "interpretability"  --color "5319e7" --description "モデル解釈・内部表現" --repo $REPO
+gh label create "analysis"          --color "9b59b6" --description "分析・考察（なぜうまくいく/いかないか）" --repo $REPO
 
 # Language (warm tones)
 gh label create "multilingual"      --color "edcfb3" --description "多言語" --repo $REPO

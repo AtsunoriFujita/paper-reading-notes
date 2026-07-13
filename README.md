@@ -17,10 +17,12 @@
 | [![post-training](https://img.shields.io/badge/post--training-fbca04)](https://github.com/AtsunoriFujita/paper-reading-notes/issues?q=label%3Apost-training) | 事後学習・RL・アライメント |
 | [![distillation](https://img.shields.io/badge/distillation-f0e68c)](https://github.com/AtsunoriFujita/paper-reading-notes/issues?q=label%3Adistillation) | 蒸留 |
 | [![sdg](https://img.shields.io/badge/sdg-c2e0c6)](https://github.com/AtsunoriFujita/paper-reading-notes/issues?q=label%3Asdg) | 合成データ生成 |
+| [![agent](https://img.shields.io/badge/agent-8b5cf6)](https://github.com/AtsunoriFujita/paper-reading-notes/issues?q=label%3Aagent) | AIエージェント |
 | [![evaluation](https://img.shields.io/badge/evaluation-d93f0b)](https://github.com/AtsunoriFujita/paper-reading-notes/issues?q=label%3Aevaluation) | 評価・ベンチマーク |
 | [![embedding](https://img.shields.io/badge/embedding-0e8a16)](https://github.com/AtsunoriFujita/paper-reading-notes/issues?q=label%3Aembedding) | 埋め込み |
 | [![rag](https://img.shields.io/badge/rag-c5def5)](https://github.com/AtsunoriFujita/paper-reading-notes/issues?q=label%3Arag) | RAG |
 | [![interpretability](https://img.shields.io/badge/interpretability-5319e7)](https://github.com/AtsunoriFujita/paper-reading-notes/issues?q=label%3Ainterpretability) | モデル解釈・内部表現 |
+| [![analysis](https://img.shields.io/badge/analysis-9b59b6)](https://github.com/AtsunoriFujita/paper-reading-notes/issues?q=label%3Aanalysis) | 分析・考察 |
 | [![multilingual](https://img.shields.io/badge/multilingual-edcfb3)](https://github.com/AtsunoriFujita/paper-reading-notes/issues?q=label%3Amultilingual) | 多言語 |
 | [![japanese](https://img.shields.io/badge/japanese-e99695)](https://github.com/AtsunoriFujita/paper-reading-notes/issues?q=label%3Ajapanese) | 日本語 |
 | [![safety](https://img.shields.io/badge/safety-b60205)](https://github.com/AtsunoriFujita/paper-reading-notes/issues?q=label%3Asafety) | 安全性 |
