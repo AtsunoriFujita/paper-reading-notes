@@ -1,7 +1,7 @@
 ---
 name: 論文要約
-about: 論文の読書メモ
-title: "[カテゴリ] 論文タイトル (年)"
+about: 論文の要約メモ
+title: "論文タイトル (年月)"
 labels: "done"
 ---
 
