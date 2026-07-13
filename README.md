@@ -17,6 +17,7 @@
 | `rag` | RAG |
 | `interpretability` | モデル解釈・内部表現 |
 | `multilingual` | 多言語 |
+| `japanese` | 日本語 |
 | `safety` | 安全性 |
 
 ## Issue テンプレート

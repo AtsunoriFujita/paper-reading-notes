@@ -13,4 +13,5 @@ gh label create "embedding"        --color "0e8a16" --description "テキスト�
 gh label create "rag"              --color "c5def5" --description "RAG" --repo $REPO
 gh label create "interpretability" --color "5319e7" --description "モデル解釈・内部表現" --repo $REPO
 gh label create "multilingual"     --color "bfd4f2" --description "多言語" --repo $REPO
+gh label create "japanese"         --color "e99695" --description "日本語" --repo $REPO
 gh label create "safety"           --color "b60205" --description "安全性" --repo $REPO
