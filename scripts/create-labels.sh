@@ -10,6 +10,7 @@ gh label create "speech"            --color "006b75" --description "音声・Spe
 # Training (yellows / greens)
 gh label create "architecture"      --color "2cbe4e" --description "LLMアーキテクチャ" --repo $REPO
 gh label create "pre-training"      --color "e4e669" --description "事前学習" --repo $REPO
+gh label create "continual-pre-training" --color "d4c5f9" --description "継続事前学習" --repo $REPO
 gh label create "post-training"     --color "fbca04" --description "事後学習・ファインチューニング・RLHF・アライメント" --repo $REPO
 gh label create "domain-adoptation" --color "f9d0c4" --description "ドメイン適応" --repo $REPO
 

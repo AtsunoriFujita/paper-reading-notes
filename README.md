@@ -11,6 +11,7 @@
 | `speech` | 音声・Speech | |
 | `architecture` | LLMアーキテクチャ |
 | `pre-training` | 事前学習 |
+| `continual-pre-training` | 継続事前学習 |
 | `post-tuning` | ファインチューニング・RLHF・アライメント |
 | `evaluation` | 評価・ベンチマーク |
 | `embedding` | テキスト埋め込み・RAG |
