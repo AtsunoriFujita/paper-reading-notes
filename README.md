@@ -12,7 +12,8 @@
 | `architecture` | LLMアーキテクチャ |
 | `pre-training` | 事前学習 |
 | `continual-pre-training` | 継続事前学習 |
-| `post-tuning` | ファインチューニング・RLHF・アライメント |
+| `post-training` | ファインチューニング・RLHF・アライメント |
+| `distillation` | 蒸留 |
 | `evaluation` | 評価・ベンチマーク |
 | `embedding` | テキスト埋め込み・RAG |
 | `rag` | RAG |
