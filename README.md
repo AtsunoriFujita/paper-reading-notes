@@ -14,6 +14,7 @@
 | `continual-pre-training` | 継続事前学習 |
 | `post-training` | ファインチューニング・RLHF・アライメント |
 | `distillation` | 蒸留 |
+| `sdg` | 合成データ生成 |
 | `evaluation` | 評価・ベンチマーク |
 | `embedding` | テキスト埋め込み・RAG |
 | `rag` | RAG |
