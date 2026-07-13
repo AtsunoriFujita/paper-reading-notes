@@ -16,6 +16,7 @@
 | `embedding` | テキスト埋め込み・RAG |
 | `rag` | RAG |
 | `interpretability` | モデル解釈・内部表現 |
+| `multilingual` | 多言語 |
 | `safety` | 安全性 |
 
 ## Issue テンプレート
