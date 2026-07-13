@@ -1,6 +1,6 @@
 # Paper Reading Notes
 
-論文の要約メモを GitHub Issues で管理するリポジトリです。
+論文の要約を GitHub Issues で管理するリポジトリ。
 
 ## カテゴリ（ラベル）
 
@@ -24,7 +24,7 @@
 | `safety` | 安全性 |
 
 ## Issue テンプレート
-
+論文の内容、構成によっては異なる場合もある。
 ```
 ## 問題意識
 
@@ -36,10 +36,10 @@
 ## Issueタイトルの命名規則
 
 ```
-論文タイトル (年)
+論文タイトル (年月)
 ```
 
 例：
-- `DeepSeek-V3 (2024)`
-- `DeepSeek-R1: Incentivizing Reasoning with GRPO (2025)`
-- `NV-Embed: Improved Techniques for Training LLMs as Generalist Embedding Models (2024)`
+- `DeepSeek-V3 (2024.12)`
+- `DeepSeek-R1: Incentivizing Reasoning with GRPO (2025.01)`
+- `NV-Embed: Improved Techniques for Training LLMs as Generalist Embedding Models (2024.05)`
