@@ -18,6 +18,9 @@ gh label create "domain-adoptation" --color "f9d0c4" --description "ドメイン
 
 gh label create "agent"             --color "8b5cf6" --description "AIエージェント" --repo $REPO
 
+gh label create "optimizer"         --color "e67e22" --description "最適化アルゴリズム" --repo $REPO
+gh label create "efficiency"        --color "f39c12" --description "計算効率・推論高速化・量子化" --repo $REPO
+
 # Application (reds / greens)
 gh label create "evaluation"        --color "d93f0b" --description "評価・ベンチマーク" --repo $REPO
 gh label create "embedding"         --color "0e8a16" --description "テキスト埋め込み" --repo $REPO

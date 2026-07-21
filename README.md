@@ -17,6 +17,8 @@
 | [![post-training](https://img.shields.io/badge/post--training-fbca04)](https://github.com/AtsunoriFujita/paper-reading-notes/issues?q=label%3Apost-training) | 事後学習・RL・アライメント |
 | [![distillation](https://img.shields.io/badge/distillation-f0e68c)](https://github.com/AtsunoriFujita/paper-reading-notes/issues?q=label%3Adistillation) | 蒸留 |
 | [![sdg](https://img.shields.io/badge/sdg-c2e0c6)](https://github.com/AtsunoriFujita/paper-reading-notes/issues?q=label%3Asdg) | 合成データ生成 |
+| [![optimizer](https://img.shields.io/badge/optimizer-e67e22)](https://github.com/AtsunoriFujita/paper-reading-notes/issues?q=label%3Aoptimizer) | 最適化アルゴリズム |
+| [![efficiency](https://img.shields.io/badge/efficiency-f39c12)](https://github.com/AtsunoriFujita/paper-reading-notes/issues?q=label%3Aefficiency) | 計算効率・推論高速化・量子化 |
 | [![agent](https://img.shields.io/badge/agent-8b5cf6)](https://github.com/AtsunoriFujita/paper-reading-notes/issues?q=label%3Aagent) | AIエージェント |
 | [![evaluation](https://img.shields.io/badge/evaluation-d93f0b)](https://github.com/AtsunoriFujita/paper-reading-notes/issues?q=label%3Aevaluation) | 評価・ベンチマーク |
 | [![embedding](https://img.shields.io/badge/embedding-0e8a16)](https://github.com/AtsunoriFujita/paper-reading-notes/issues?q=label%3Aembedding) | 埋め込み |
