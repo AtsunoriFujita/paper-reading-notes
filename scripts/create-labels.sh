@@ -5,6 +5,8 @@ REPO="AtsunoriFujita/paper-reading-notes"
 # Model type (blues)
 gh label create "llm"               --color "0075ca" --description "Large Language Model" --repo $REPO
 gh label create "vlm"               --color "4393c3" --description "Vision Language Model" --repo $REPO
+gh label create "vision"            --color "0d47a1" --description "Vision（言語なし）" --repo $REPO
+gh label create "vla"               --color "1565c0" --description "Vision-Language-Action Model" --repo $REPO
 gh label create "speech"            --color "006b75" --description "音声・Speech" --repo $REPO
 
 # Training (yellows / greens)
