@@ -10,7 +10,7 @@
 |--------|------|
 | [![llm](https://img.shields.io/badge/llm-0075ca)](https://github.com/AtsunoriFujita/paper-reading-notes/issues?q=label%3Allm) | Large Language Model |
 | [![vlm](https://img.shields.io/badge/vlm-4393c3)](https://github.com/AtsunoriFujita/paper-reading-notes/issues?q=label%3Avlm) | Vision Language Model |
-| [![vision](https://img.shields.io/badge/vision-0d47a1)](https://github.com/AtsunoriFujita/paper-reading-notes/issues?q=label%3Avision) | Vision（言語なし） |
+| [![vision](https://img.shields.io/badge/vision-0d47a1)](https://github.com/AtsunoriFujita/paper-reading-notes/issues?q=label%3Avision) | Vision |
 | [![vla](https://img.shields.io/badge/vla-1565c0)](https://github.com/AtsunoriFujita/paper-reading-notes/issues?q=label%3Avla) | Vision-Language-Action Model |
 | [![speech](https://img.shields.io/badge/speech-006b75)](https://github.com/AtsunoriFujita/paper-reading-notes/issues?q=label%3Aspeech) | 音声・Speech |
 | [![architecture](https://img.shields.io/badge/architecture-2cbe4e)](https://github.com/AtsunoriFujita/paper-reading-notes/issues?q=label%3Aarchitecture) | アーキテクチャ |
